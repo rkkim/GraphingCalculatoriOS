@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Richard Kim on 7/11/16.
-//  Copyright © 2016 Richard Kim. All rights reserved.
+//  Created by Kanstantsin Linou on 7/13/16.
+//  Copyright © 2016 Kanstantsin Linou. All rights reserved.
 //
 
 import UIKit
